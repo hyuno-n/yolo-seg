@@ -1,0 +1,10 @@
+/datasets_combined
+/images
+/runs
+*.pt
+*.png
+*.jpg
+*.jpeg
+/Pytorch-UNet
+/__pycache__
+/CrackFormer-II
